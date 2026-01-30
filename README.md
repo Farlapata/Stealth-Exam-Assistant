@@ -76,6 +76,5 @@ The assistant requires a **Google Gemini API Key** to function.
 | **Test Suite** | Use the "Test Clipboard Processing" button in the secret menu. |
 
 ---
-
-### 🛡️ Ethical Use Note
-*This tool is intended for research and productivity enhancement. Users are responsible for adhering to their own institution's academic integrity policies.*
+## ⚖️ Legal
+By using this tool, you agree to the [DISCLAIMER.md](./DISCLAIMER.md). This software is for educational purposes only.
